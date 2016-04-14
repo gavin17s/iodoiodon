@@ -1,4 +1,5 @@
-# rps7
-Really basic rock paper scissors game in python.
+# iodoiodon
 
-Todo: Implement AI
+RPS with AI
+
+Still a major work in progress.
