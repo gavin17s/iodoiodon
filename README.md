@@ -1,5 +1,5 @@
 # iodoiodon
 
-RPS with AI
+Rock Paper Scissors
 
-Still a major work in progress.
+Work in progress.
