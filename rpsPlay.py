@@ -109,6 +109,7 @@ def main():
     print(cpuHandsHistory)
     print(playerHandsHistory)
     showChain()
-        
+    input("Press enter to exit.")    
+    
 if __name__ == '__main__':
     main()
