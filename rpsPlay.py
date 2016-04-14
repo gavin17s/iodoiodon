@@ -108,6 +108,7 @@ def main():
     print("############################################################")
     print(cpuHandsHistory)
     print(playerHandsHistory)
+    showChain()
         
 if __name__ == '__main__':
     main()
