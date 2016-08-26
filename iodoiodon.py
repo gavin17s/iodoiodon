@@ -1,5 +1,5 @@
 # iodoiodon (Rock Paper Scissors AI)
-#Gavin Su
+# Gavin Su
 # http://gavin.su
 # v0.1
 

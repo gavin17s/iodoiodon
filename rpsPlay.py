@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Simple Rock Paper Scissors Program to interact with iodoiodon.
 # Gavin Su
 # http://gavin.su
